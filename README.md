@@ -1,4 +1,25 @@
-### Hi there 👋
+# Tushar Choudhary—@swingcake
+
+Hi, I'm Tushar—a final year Computer Science student.
+
+## My values
+
+🌟 Expression as authentic self\
+💖 Safety and trust\
+🍏 Beginner's mindset and curiosity\
+🙌 Shared understanding and consensus
+
+## How I work
+
+My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process.\
+Checklists are my absolute favorite. ✅
+
+> <img src="https://i.imgur.com/kdKhgx6.gif" width="160px"/>
+
+## Get in touch
+
+- Twitter: <https://twitter.com/swingcake>
+- LinkedIn: <https://www.linkedin.com/in/swingcake/>
 
 <!--
 **swingcake/swingcake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
