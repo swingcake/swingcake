@@ -1,3 +1,5 @@
+<img align="right" src="https://i.imgur.com/kdKhgx6.gif" width="180px"/>
+
 # Tushar Choudhary—@swingcake
 
 Hi, I'm Tushar—a final year Computer Science student.
@@ -13,8 +15,6 @@ Hi, I'm Tushar—a final year Computer Science student.
 
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process.\
 Checklists are my absolute favorite. ✅
-
-> <img src="https://i.imgur.com/kdKhgx6.gif" width="160px"/>
 
 ## Get in touch
 
