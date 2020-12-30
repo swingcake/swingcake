@@ -18,8 +18,8 @@ Checklists are my absolute favorite. ✅
 
 ## Get in touch
 
-- Twitter: <https://twitter.com/swingcake>
-- LinkedIn: <https://www.linkedin.com/in/swingcake/>
+- Twitter: <https://twitter.com/whytushar>
+- LinkedIn: <https://www.linkedin.com/in/tusharworks/>
 
 <!--
 **swingcake/swingcake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
