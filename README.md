@@ -1,8 +1,8 @@
 <img align="right" src="https://i.imgur.com/kdKhgx6.gif" width="180px"/>
 
-# Tushar Choudhary—@swingcake
+# Tushar Choudhary — @swingcake
 
-Hi, I'm Tushar—a final year Computer Science student.
+I write code.
 
 ## My values
 
